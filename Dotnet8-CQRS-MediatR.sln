@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dotnet8-CQRS-MediatR", "Dotnet8-CQRS-MediatR\Dotnet8-CQRS-MediatR.csproj", "{1BEF3C77-C934-416B-B5C8-20C1A4DCD668}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BuildingBlocks", "BuildingBlocks", "{2AFB5755-F076-4D85-995C-1820A1A6531A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuildingBlocks", "BuildingBlocks\BuildingBlocks.csproj", "{E7D61C44-FC83-4EC1-B1EB-0E644C5D7336}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BEF3C77-C934-416B-B5C8-20C1A4DCD668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BEF3C77-C934-416B-B5C8-20C1A4DCD668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BEF3C77-C934-416B-B5C8-20C1A4DCD668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BEF3C77-C934-416B-B5C8-20C1A4DCD668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7D61C44-FC83-4EC1-B1EB-0E644C5D7336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7D61C44-FC83-4EC1-B1EB-0E644C5D7336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7D61C44-FC83-4EC1-B1EB-0E644C5D7336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7D61C44-FC83-4EC1-B1EB-0E644C5D7336}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E7D61C44-FC83-4EC1-B1EB-0E644C5D7336} = {2AFB5755-F076-4D85-995C-1820A1A6531A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A253FE3D-B837-4171-B153-6CBD0D589DB9}
+	EndGlobalSection
+EndGlobal

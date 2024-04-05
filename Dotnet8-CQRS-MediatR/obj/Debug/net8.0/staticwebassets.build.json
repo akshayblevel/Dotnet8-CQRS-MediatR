@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nJXjedNp++NErk2F+Jtq+0MkOpo9+fFWnxllC4W1QUE=",
+  "Source": "Dotnet8-CQRS-MediatR",
+  "BasePath": "_content/Dotnet8-CQRS-MediatR",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
